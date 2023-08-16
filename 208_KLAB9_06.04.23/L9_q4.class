@@ -1,0 +1,4 @@
+/*Create a user-defined exception named Check Argument to check the number
+of arguments passed through the command line. If the number of arguments is
+less than four, throw the CheckArgument exception; else, print the addition of
+squares of all four elements.*/
